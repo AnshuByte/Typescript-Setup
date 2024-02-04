@@ -11,7 +11,7 @@
 `index.ts`  file render js file of same name in dist folder which runs on deployment. 
 <br>
 To direct to which folder to render the .ts fike we have to uncomment the `"outDir" : "./"` and add the destion to wher it should be rendered .eg`("outDir" : "./dist"`)
-<br>
+<br><br>
 `.gitignore` is used to ignore that can be installed by other users like node modules easily and to protect any critical file that should not be on github.(just add the file or dir name to .gitignore to ignore the file/dir)
 
 
