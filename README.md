@@ -1,8 +1,9 @@
 #Important cmd to remember
 
-`tsc --init` to create tsconfig.json
-`npm install` to install node modules
-`npm init -y` to create package.json
+`tsc --init` to create tsconfig.json.<br>
+`npm install` to install node modules.
+`npm init -y` to create package.json.
+
 
 #Important things to remember
 
